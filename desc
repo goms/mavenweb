@@ -1,0 +1,48 @@
+Hi,
+
+Requirements and plan.
+
+Week 1	Week2	Week 3	Week 4	Week 5
+Requirement Analysis
+Documentation
+UI design	Database Design
+Development
+Unit Testing	Development
+Test cases
+Unit Testing 	Testing 
+Rework	Completion
+
+
+Maintenance and Reboot Plans
+•         Deployments
+•         Upgrade
+•         Host Reboot
+•         History: 
+o    Custom filter to query history data (Mnemonic / Team / Platform / Time / Priority)
+o    
+Today	This Week	Upcoming
+ 
+Detailed information:
+Scheduled Start Time	Scheduled End Time	Task	Ticket	Platform	Priority	Task Status	Support	Action	Status
+04-Oct-16 01:00:00	04-Oct-16 05:00:00	Emona BXP2 - PROD deployment	SCCB# 709640	BXP2	High	Open	View	Edit / Postpone / Remove	 
+More:
+•         Reporter
+•         Product
+•         Assigned To?
+•         Comments
+•          
+ 
+
+
+Thanks and Regards,
+Sivakumar
+
+Sivakumar Mayamuthu Nadar
+Technical Lead – Applications Development
+Distributed Sys Arch - MONA Monitoring
+
+iNautix Technologies India Private Limited, a BNY Mellon Company
+Office : +91 44 2254 6000  Extn : 11894
+Mobile: +91 988 464 3936
+Email  : smayamuthunadar@inautix.co.in 
+http://www.inautix.co.in/
